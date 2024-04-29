@@ -1,0 +1,5 @@
+{
+    "routs": [
+        {"source": "/", "destination": "/index2.html"}
+    ]
+}
